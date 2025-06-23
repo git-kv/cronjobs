@@ -1,3 +1,3 @@
 #! /bin/bash
-cd /home/keith/ansible
-ANSIBLE_LOG_PATH=/home/keith/ansible_logs/update_hosts_log.txt /home/keith/.local/bin/ansible-playbook /home/keith/ansible/update_hosts.yml
+cd ~/ansible
+ANSIBLE_LOG_PATH=~/ansible_logs/update_hosts_log.txt ~/.local/bin/ansible-playbook ~/ansible/update_hosts.yml
